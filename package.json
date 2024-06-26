@@ -15,5 +15,9 @@
   "dependencies": {
     "commander": "^12.1.0",
     "inquirer": "^8.0.0"
-  }
+  },
+  "files": [
+    "bin",
+    "templates"
+  ]
 }
