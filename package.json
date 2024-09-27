@@ -1,0 +1,16 @@
+{
+  "name": "afe1-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "afe1": "./bin/cli.js"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "commander": "^12.1.0"
+  }
+}
