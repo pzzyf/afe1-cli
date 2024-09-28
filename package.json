@@ -6,6 +6,10 @@
   "bin": {
     "afe1": "./bin/cli.js"
   },
+  "files": [
+    "bin",
+    "lib"
+  ],
   "scripts": {},
   "keywords": [],
   "author": "",
